@@ -1,3 +1,5 @@
+package-info.java file
+
 package com.tutorialpoint.mycoolapp;
 
 /**
