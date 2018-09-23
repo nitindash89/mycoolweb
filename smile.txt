@@ -1,7 +1,0 @@
-hello I love this```
-
-<<<<<<< Updated upstream
-README`
-=======
-This is awusome!!`
->>>>>>> Stashed changes
